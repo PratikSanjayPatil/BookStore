@@ -1,0 +1,98 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":120,
+        "category":"PAID",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722270802~exp=1722274402~hmac=6c1977edb66a31e7dcb24b4af257b5fc621f2ea9f38c0344d8769644c3da1dce&w=740"
+    },
+    {
+        "id":2,
+        "name":"Comedy Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":300,
+        "category":"PAID",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722270802~exp=1722274402~hmac=6c1977edb66a31e7dcb24b4af257b5fc621f2ea9f38c0344d8769644c3da1dce&w=740"
+    },
+    {
+        "id":3,
+        "name":"astrology Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":499,
+        "category":"PAID",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722270802~exp=1722274402~hmac=6c1977edb66a31e7dcb24b4af257b5fc621f2ea9f38c0344d8769644c3da1dce&w=740"
+    },
+    {
+        "id":3,
+        "name":"Crime Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":600,
+        "category":"PAID",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722270802~exp=1722274402~hmac=6c1977edb66a31e7dcb24b4af257b5fc621f2ea9f38c0344d8769644c3da1dce&w=740"
+    },
+    {
+        "id":4,
+        "name":"Historical fiction Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":600,
+        "category":"PAID",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722270802~exp=1722274402~hmac=6c1977edb66a31e7dcb24b4af257b5fc621f2ea9f38c0344d8769644c3da1dce&w=740"
+    },
+    {
+        "id":5,
+        "name":"Horror Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":699,
+        "category":"PAID",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722270802~exp=1722274402~hmac=6c1977edb66a31e7dcb24b4af257b5fc621f2ea9f38c0344d8769644c3da1dce&w=740"
+    },
+    {
+        "id":6,
+        "name":"Humour and satire Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":729,
+        "category":"PAID",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722270802~exp=1722274402~hmac=6c1977edb66a31e7dcb24b4af257b5fc621f2ea9f38c0344d8769644c3da1dce&w=740"
+    },
+    {
+        "id":7,
+        "name":"Young adult Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":770,
+        "category":"PAID",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722270802~exp=1722274402~hmac=6c1977edb66a31e7dcb24b4af257b5fc621f2ea9f38c0344d8769644c3da1dce&w=740"
+    },
+    {
+        "id":8,
+        "name":"Poetry Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":800,
+        "category":"PAID",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722270802~exp=1722274402~hmac=6c1977edb66a31e7dcb24b4af257b5fc621f2ea9f38c0344d8769644c3da1dce&w=740"
+    },
+    {
+        "id":9,
+        "name":"Short stories Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":899,
+        "category":"PAID",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722270802~exp=1722274402~hmac=6c1977edb66a31e7dcb24b4af257b5fc621f2ea9f38c0344d8769644c3da1dce&w=740"
+    },
+    {
+        "id":10,
+        "name":"War Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":920,
+        "category":"PAID",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722270802~exp=1722274402~hmac=6c1977edb66a31e7dcb24b4af257b5fc621f2ea9f38c0344d8769644c3da1dce&w=740"
+    },
+    {
+        "id":11,
+        "name":"Biography Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":980,
+        "category":"PAID",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722270802~exp=1722274402~hmac=6c1977edb66a31e7dcb24b4af257b5fc621f2ea9f38c0344d8769644c3da1dce&w=740"
+    }
+]
