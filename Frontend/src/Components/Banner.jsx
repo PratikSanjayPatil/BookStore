@@ -14,11 +14,11 @@ function Banner() {
                         </span>
                     </h1>
                     <p className='text-xl'>
-                        Lorem, ipsum dolor sit amet consectetur 
-                        adipisicing elit. Dolor, et totam. Tempora 
-                        amet atque expedita, quae corrupti totam sed
-                        pariatur corporis at veniam est voluptas
-                        animi!
+                        Discover the magic of reading with our carefully curated 
+                        collection of books across genres. Whether you’re looking 
+                        for timeless classics, thrilling mysteries, heartwarming 
+                        romances, or insightful non-fiction, we have something for 
+                        every reader!
                     </p>
                     <label className="input input-bordered flex items-center gap-2">
                         <svg

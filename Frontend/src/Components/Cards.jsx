@@ -4,12 +4,12 @@ function Cards({ item }) {
 
     return (
         <>
-            <div className='mt-4 my-3'>
+            <div className='mt-4 my-3 p-3'>
                 <div className="card bg-base-100 w-92 shadow-xl p-3 hover:scale-105 duration-200">
                     <figure>
                         <img
                             src={item.image}
-                            alt="Shoes" />
+                            alt="Book" />
                     </figure>
                     <div className="card-body">
                         <h2 className="card-title">

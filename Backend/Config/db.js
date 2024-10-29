@@ -1,0 +1,10 @@
+const mongoose = require("mongoose")
+
+const mongoURI = "mongodb://localhost:27017/books";
+
+
+const connectDb = () =>{
+    return mongoose.connect(mongoURI);
+}
+
+module.exports = connectDb
